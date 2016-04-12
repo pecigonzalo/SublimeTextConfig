@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoAligner",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Dockerfile Syntax Highlighting",
+		"Edit Command Palette",
+		"Git",
+		"GoSublime",
+		"Gradle_Language",
+		"Groovy Snippets",
+		"Kerbal Space Program Configuration Syntax",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PowerShell",
+		"Powershell Help Generator",
+		"Pretty JSON",
+		"Pretty Ruby",
+		"Pretty YAML",
+		"Puppet",
+		"RAML Syntax Highlighter",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-foodcritic",
+		"SublimeLinter-contrib-puppet-lint",
+		"SublimeLinter-rubocop",
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"xml2json"
+	]
+}
