@@ -32,6 +32,7 @@
 		"SublimeLinter-contrib-foodcritic",
 		"SublimeLinter-contrib-puppet-lint",
 		"SublimeLinter-rubocop",
+		"SublimeLinter-shellcheck",
 		"Theme - Afterglow",
 		"Theme - Brogrammer",
 		"Theme - Spacegray",
