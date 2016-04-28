@@ -12,6 +12,7 @@
 		"Dockerfile Syntax Highlighting",
 		"Edit Command Palette",
 		"Git",
+		"GitGutter",
 		"GoSublime",
 		"Gradle_Language",
 		"Groovy Snippets",
@@ -28,15 +29,18 @@
 		"SideBarEnhancements",
 		"SideBarFolders",
 		"SideBarGit",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-foodcritic",
 		"SublimeLinter-contrib-puppet-lint",
+		"SublimeLinter-pylint",
 		"SublimeLinter-rubocop",
 		"SublimeLinter-shellcheck",
+		"SublimeREPL",
 		"Theme - Afterglow",
 		"Theme - Brogrammer",
 		"Theme - Spacegray",
 		"TrailingSpaces",
-		"xml2json"
+		"Vagrant"
 	]
 }
